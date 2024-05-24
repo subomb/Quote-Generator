@@ -35,7 +35,7 @@ A responsive web application that retrieves and displays quotes from various cat
 
 Check out the live demo on CodePen:
 
-[Quote Generator on CodePen](<https://codepen.io/Subeom-Kang/full/oNOpYvw>)
+[Quote Generator on CodePen](<https://codepen.io/Subeom-Kang/full/JjqKVZL>)
 
 ## Acknowledgments
 
