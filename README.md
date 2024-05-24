@@ -31,6 +31,12 @@ A responsive web application that retrieves and displays quotes from various cat
 - **Displaying Quotes**: Quotes are displayed with real-time loading indicators for a smooth user experience.
 - **Sharing**: Quotes can be shared on Twitter via the integrated share button.
 
+## Demo
+
+Check out the live demo on CodePen:
+
+[Quote Generator on CodePen][[demo]](<https://codepen.io/Subeom-Kang/full/oNOpYvw>)
+
 ## Acknowledgments
 
 - Thanks to [API Ninjas](https://api-ninjas.com) for providing the Quotes API.
